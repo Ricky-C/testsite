@@ -1,0 +1,25 @@
+body {
+  background-image: url('../img/home.jpg');
+  
+  padding: 1em
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+.row #carousel{
+
+}
+a {
+  color: #00B7FF;
+}
+
+
+button {
+  float: right;
+  margin-top: 8px;
+}
+form {
+  margin-right:
+  font-family: cursive;
+}
+#carousel {
+  margin-top: 10px
+}
